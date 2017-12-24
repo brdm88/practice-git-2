@@ -2,3 +2,4 @@
 Before the first commit...
 Data of the second commit
 Data of the third commit
+Data of commit 5
