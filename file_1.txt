@@ -1,3 +1,4 @@
 --Head of the file--
 Before the first commit...
 Data of the second commit
+Data of the third commit
